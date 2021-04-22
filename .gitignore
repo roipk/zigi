@@ -42,6 +42,13 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.fbx
+*.vs
+*.csproj
+*.apk
+*.vsconfig
+*.DS_store
+*.Project
 
 # Unity3D generated meta files
 *.pidb.meta
